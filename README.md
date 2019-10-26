@@ -3,6 +3,3 @@
 </a>
 
 This project is for automating follow backs on dev.to. I just recently got back from dev.to and now I am experiencing a really small inconvenience of following back fellow dev.to members so here it is.
-
-
-        
